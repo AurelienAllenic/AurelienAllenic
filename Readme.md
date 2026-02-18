@@ -31,7 +31,8 @@ Depuis 2021, je me forme au développement web Fullstack. Mes technologies de pr
 
 ### Statistiques GitHub
 
-## ![Stats de mon GitHub](https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=AurelienAllenic&show_icons=true&theme=radical)
+![Commits](https://img.shields.io/badge/Commits-2k%2B-brightgreen?style=for-the-badge&logo=github)
+![Experience](https://img.shields.io/badge/Experience-5_ans-blue?style=for-the-badge)
 
 ### Me contacter
 
